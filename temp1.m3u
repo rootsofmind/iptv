@@ -1,0 +1,989 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="5f8ed52a62fa750007733239" group-title="Animation + Gaming" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png",Pluto TV Animé All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecee24576bc0007a13b79" group-title="Animation + Gaming" tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png",IGN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eccd81062c300078a11df" group-title="Animation + Gaming" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png",Gaming TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60afa1508284e60007163c08" group-title="Comédie" tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG.png",Juste pour Rire
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afa1508284e60007163c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecd9169d2d4000864a974" group-title="Comédie" tvg-logo="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecd336d64c9000754cdf1" group-title="Comédie" tvg-logo="https://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eb91bb9b9e7000817e67f" group-title="Comédie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",Pluto TV Comédie
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="JustepourRire.us" group-title="Comedy" tvg-logo="http://images.pluto.tv/channels/60afa1508284e60007163c08/solidLogoPNG.png",Juste pour Rire (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1  tvg-id="TastemadeFrance.us" group-title="Cooking" tvg-logo="https://i.imgur.com/8s6aRwv.png",Tastemade France (1080p)
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="60925a44f0350600075a1fdc" group-title="Découverte" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",Pluto TV Animaux
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed58b2db26f0007b4aa73" group-title="Découverte" tvg-logo="https://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png",Pluto TV Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed3892ed7bb000741a1d2" group-title="Découverte" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="FRBA3300031ZC" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/10/FRBA3300031ZC_20201208T050251.png",Stormcast Novelas
+https://78088d9226df47fb95e3320920b08ad7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_StormcastNovelas/playlist.m3u8?ads.wurl_channel=613&ads.wurl_name=StormcastNovelas&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA3300059J5" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/77/FRBA3300059J5_20210811T022059.png",Krime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-krime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA3300022OA" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/82/FRBA3300022OA_20210714T000943.png",Televisa TeleNovelas
+https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA3300019CI" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/66/FRBA3300019CI_20211110T010925.png",Doctor Who
+https://317f4af6bbcb4460ab7367feb929f47a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_DoctorWho/playlist.m3u8?ads.wurl_channel=1017&ads.wurl_name=DoctorWho&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA10000029E" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/FRBA10000029E_20201208T050251.png",People Are Awesome
+https://656cbf39ac7d4ee3a0bad01442e59415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBB43000017M" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/FRBB43000017M_20211110T010914.png",Lumières de Noël
+https://d2lsaxvakud7gy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-11oo6vc16j46f-prod/son/cl/son_cl.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA1000008LK" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/FRBA1000008LK_20211013T011436.png",BBC Drama
+https://caec5a936f944a8d83ccb21f8266b684.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_BBCDrama/playlist.m3u8?ads.wurl_channel=946&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ38000050Z" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/FRAJ38000050Z_20210209T093419.png",MTV Catfish
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRBA3300061XH" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/FRBA3300061XH_20210811T022032.png",Explore by TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytvfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRAJ4500026AB" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/FRAJ4500026AB_20210923T011017.png",Rakuten Stories
+https://03ec869805be4865a4b036b8f22c8ef9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=450&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ3800007V8" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/FRAJ3800007V8_20210811T021822.png",Pluto TV Series
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRAJ3800009AY" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/FRAJ3800009AY_20210310T011125.png",Plus Belle la Vie
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fff211667854f00079a9b5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRBA33000234L" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/FRBA33000234L_20210714T001607.png",FailArmy
+https://c23c1bf8c2f346eb83bdba935b5c12b8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ38000089S" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/30/FRAJ38000089S_20211110T010621.png",Pluto TV Polar
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebbeabd18520007b37709/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRAJ3800004CC" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/FRAJ3800004CC_20210209T093414.png",MTV Classics
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRBA2200007G7" group-title="Divertissement" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png",ADN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-adn-samsung-fre/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+#EXTINF:-1  tvg-id="609256cf5dfd4c0007e577a9" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/609256cf5dfd4c0007e577a9/colorLogoPNG.png",Pluto TV Rich
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609256cf5dfd4c0007e577a9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="6092544e7639460007d4835e" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG.png",Pluto TV Dating
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6092544e7639460007d4835e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="602cf8963b4bc90007454541" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/602cf8963b4bc90007454541/colorLogoPNG.png",CRIBS : MAISONS DE STAR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602cf8963b4bc90007454541/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f92b5ba040eaa0007074d0a" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png",BET CLASSICS Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f92b56a367e170007cd43f4" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",MTV CLASSICS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed0720dc198000728f9d3" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/5f8ed0720dc198000728f9d3/colorLogoPNG.png",People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0720dc198000728f9d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eb8a8b2619a000710605c" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",TROLL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eb71a26ed8300076433f9" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/5f8eb71a26ed8300076433f9/colorLogoPNG.png",MADE TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eb66537867f0007146953" group-title="Divertissement" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png",CATFISH TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="ARTEFrancais.fr" group-title="Entertainment" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE Français (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1  tvg-id="M6.fr" group-title="Entertainment" tvg-logo="https://static.epg.best/fr/M6.fr.png",M6 (720p)
+http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+#EXTINF:-1  tvg-id="M6International.fr" group-title="Entertainment" tvg-logo="https://static.epg.best/fr/M6.fr.png",M6 International (1080p)
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1  tvg-id="CSTAR.fr" group-title="Entertainment" tvg-logo="https://i.imgur.com/kPvRgcY.png",CSTAR (720p)
+http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1  tvg-id="TF1.fr" group-title="Entertainment" tvg-logo="https://i.imgur.com/CJAbJfM.png",TF1 (720p)
+http://edge9.iptvnetwork.net/live/TF1/playlist.m3u8
+#EXTINF:-1  tvg-id="W9.fr" group-title="Entertainment" tvg-logo="https://i.imgur.com/7FFFvCN.jpg",W9 (720p)
+http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
+#EXTINF:-1  tvg-id="LaChaineNormande.fr" group-title="Family" tvg-logo="https://i.imgur.com/xDLwsbY.png",La Chaîne normande (LCN) (576p) [Not 24/7]
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="FRBA3300026BR" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210923T010747.png",Famille - Rakuten TV
+https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8?ads.wurl_channel=720&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBB340000115" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/53/FRBB340000115_20210908T010147.png",Emotion'L
+https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA2200004J6" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/17/FRBA2200004J6_20210113T004315.png",Sofy.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-fr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA2200010VN" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/51/FRBA2200010VN_20210512T003422.png",MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA3300054PU" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/FRBA3300054PU_20210908T010406.png",Movies Central by TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentralfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA3300021ME" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/FRBA3300021ME_20210714T000816.png",Wild Side TV
+https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WildSideTV/playlist.m3u8?ads.wurl_channel=871&ads.wurl_name=WildSideTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBB39000020C" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/FRBB39000020C_20211013T011420.png",Ciné Nanar
+https://d2o63bkh2qz410.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/cinenanar/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ3800002W5" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20210209T093407.png",Pluto TV Ciné
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRAJ4500025AN" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/41/FRAJ4500025AN_20210923T010843.png",Films dramatiques - Rakuten TV
+https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenTVShows/playlist.m3u8?ads.wurl_channel=449&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ4500023UP" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20210923T010838.png",Films d'action - Rakuten TV
+https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ4500024MR" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/FRAJ4500024MR_20210923T010513.png",Comédies - Rakuten TV
+https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=448&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA2200008H8" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/FRBA2200008H8_20210414T024625.png",UniversCiné
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-universcine-samsung-fre/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA3300027K7" group-title="Films" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/FRBA3300027K7_20210923T010535.png",Documentaires - Rakuten TV
+https://9dd705dfd14b4d3cac606b4672142dd9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenDocumentaries/playlist.m3u8?ads.wurl_channel=719&ads.wurl_name=RakutenDocumentaries&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="60c3472a51a2050008dad272" group-title="Films" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png",Pluto TV Thrillers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c3472a51a2050008dad272/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60c34592c911890007f29a73" group-title="Films" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png",Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c34592c911890007f29a73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60b4d6c806ad2a00073b3108" group-title="Films" tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png",Wild Side TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60812fc8539963000707d1e1" group-title="Films" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png",Pluto TV Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60812fc8539963000707d1e1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed1ff5c39700007e2204a" group-title="Films" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png",Pluto TV Action
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed168f72fcd0007e56269" group-title="Films" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png",Pluto TV Ciné Rétro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed0f17564a300082b676a" group-title="Films" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png",Pluto TV Ciné
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="France2.fr" group-title="General" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png",France 2 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1  tvg-id="France3.fr" group-title="General" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png",France 3 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1  tvg-id="FranceInter.fr" group-title="General" tvg-logo="https://i.imgur.com/PYqQyRv.png",France Inter (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
+#EXTINF:-1  tvg-id="TV5MondeEurope.fr" group-title="General" tvg-logo="https://i.imgur.com/mwHtXya.jpg",TV5 Monde Europe (1080p)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
+#EXTINF:-1  tvg-id="TV5MondeInfo.fr" group-title="General" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5Monde Info (1080p)
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1  tvg-id="NTVEurope.bd" group-title="General" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png",NTV Europe (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="FRBA3300029ZY" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/61/FRBA3300029ZY_20201208T050252.png",SuperToons TV
+https://cbbcdf4b20e0474f92d7d03a48faa5f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_SuperToonsTV/playlist.m3u8?ads.wurl_channel=658&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ3800010QO" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/FRAJ3800010QO_20211110T010615.png",Bob L'eponge
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/609a33d06972da0007748ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRBA3300028VI" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/47/FRBA3300028VI_20210113T004313.png",Caillou
+https://2586fb1e60a44262aa11697e876c1f1a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=666&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ38000061J" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/FRAJ38000061J_20210209T093422.png",iCarly
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRBA33000306L" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/FRBA33000306L_20201118T003330.png",AMUSE ANIMATION
+https://9468fd09446c49bfb9127f6ffd0f3b29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_AmuseAnimation/playlist.m3u8?ads.wurl_channel=651&ads.wurl_name=AmuseAnimation&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRAJ38000035M" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/FRAJ38000035M_20210209T093410.png",Pluto TV Kids Séries
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1  tvg-id="FRBA3300018I9" group-title="Jeunesse" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/32/FRBA3300018I9_20211110T010919.png",Xilam TV
+https://fda836df464945ceba2aaecfb771f934.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_XilamTV/playlist.m3u8?ads.wurl_channel=1005&ads.wurl_name=XilamTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="GulliBilArabi.fr" group-title="Kids" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png",Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1  tvg-id="611e78c4954f250007ef7b84" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/611e78c4954f250007ef7b84/colorLogoPNG.png",la série animée
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e78c4954f250007ef7b84/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="611e75226b7f420007c3f319" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png",Inazuma Eleven
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e75226b7f420007c3f319/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="611e73687fcd580007d1f052" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/611e73687fcd580007d1f052/colorLogoPNG.png",Angela Anaconda
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e73687fcd580007d1f052/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="611e71322f5f180007001dde" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png",Degrassi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e71322f5f180007001dde/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60dafdeca79e4d0007307b2b" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/60dafdeca79e4d0007307b2b/colorLogoPNG.png",Pluto TV Kids Halloween
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafdeca79e4d0007307b2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60b4c17a81e29300071d3a39" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png",Avatar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5ffc8c345822750007e167de" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",Bob l'éponge
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f92b625c1ffbc0007e60c37" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Pluto TV Kids Collection
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecc7aa44d9c00081fca29" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png",iCarly TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecc1b37867f00071469e9" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",Tortues Ninja TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecb9524419b0007365a1c" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png",Dora TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecb336537e8000764a17f" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png",Pluto TV Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eba14a4ffb8000764e950" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png",Pluto TV Kids Animation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eb99ff17815000784a3b0" group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png",Pluto TV Kids Séries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="Gulli.fr" group-title="Kids" tvg-logo="https://i.imgur.com/mMWq0Kn.png",Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1  tvg-id="BoingFrance.it" group-title="Kids" tvg-logo="https://i.imgur.com/mIbmYs1.png",Boing France (720p) [Not 24/7]
+http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
+#EXTINF:-1  tvg-id="HatunTV.pe" group-title="Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj",Hatun TV (720p) [Not 24/7]
+https://tv.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1  tvg-id="MCMTop.fr" group-title="Music" tvg-logo="https://www.zap.co.ao/media/cache/movie_thumb/uploads/ao/channels/5d260d3fab701.png",MCM Top (480p)
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1  tvg-id="TVBNO.br" group-title="Music" tvg-logo="https://www.tvbno.com.br/images/LOGOTIPO-BNO-1.png",TV BNO (270p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1  tvg-id="MuzikaPervogo.ru" group-title="Music" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/muz1.png",Музыка Первого
+http://91.185.3.218:4000/play/608
+#EXTINF:-1  tvg-id="SlagrTV.cz" group-title="Music" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png",Šlágr TV (576p)
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1  tvg-id="StingrayQello.ca" group-title="Music" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true",Stingray Qello (1080p)
+https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1  tvg-id="MosaiqueFM.tn" group-title="Music" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png",Mosaïque FM (480p)
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1  tvg-id="1HDMusicTelevision.ru" group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png",1HD Music Television (1080p) [Not 24/7]
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="AvangTV.us" group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png",Avang TV (1080p) [Not 24/7]
+http://appavang.flashmediacast.com:1935/Appavang/livestream/palylist.m3u8
+#EXTINF:-1  tvg-id="MBCFM.ae" group-title="Music" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1  tvg-id="JawharaFM.jo" group-title="Music" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",Jawhara FM (720p)
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1  tvg-id="IFMTV.tn" group-title="Music" tvg-logo="https://www.ifm.tn/images/logo.png",IFM TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
+#EXTINF:-1  tvg-id="DeluxeLoungeHD.de" group-title="Music" tvg-logo="https://www.highview.com/fileadmin/Webdata/grafiken/highview/brands/lounge_deluxe_brand_logo_HD_neu.png",Deluxe Lounge HD (720p)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
+#EXTINF:-1  tvg-id="GEMMifa.ir" group-title="Music" tvg-logo="https://www.gemonline.tv/Assets/channels-box/mifa.png",GEM Mifa (1080p)
+http://159.69.58.154/radio_javan/gem_mifa.m3u8
+#EXTINF:-1  tvg-id="GEMAZ.ir" group-title="Music" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_az.png",GEM AZ (576p) [Not 24/7]
+http://216.66.42.47:7777/GemAZ_HD.m3u8
+#EXTINF:-1  tvg-id="GEMArabia.ir" group-title="Music" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_arabia.png",GEM Arabia (576p) [Not 24/7]
+http://216.66.42.47:7777/GemArabia_HD.m3u8
+#EXTINF:-1  tvg-id="GEM24b.ir" group-title="Music" tvg-logo="https://www.gemonline.tv/Assets/channels-box/24b.png",GEM 24b (1080p) [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+#EXTINF:-1  tvg-id="GEMLatino.ir" group-title="Music" tvg-logo="https://www.gemonline.net/Assets/channels-box/gem_latino.png?14",GEM Latino (540p) [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
+#EXTINF:-1  tvg-id="DijlahTarab.iq" group-title="Music" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",Dijlah Tarab (576p)
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1  tvg-id="PervyyMuzykalnyyKanal.by" group-title="Music" tvg-logo="https://www.crdru.net/b/templates/ottch/onemuz.png",Первый Музыкальный Канал (2160p)
+http://rtmp.one.by:1499
+#EXTINF:-1  tvg-id="Canal38.cr" group-title="Music" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",Canal 38 (720p) [Not 24/7]
+https://rtmp.info/canal38/envivo/chunks.m3u8
+#EXTINF:-1  tvg-id="DeeJayTV.it" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/1024px-Logo_Deejay.svg.png",DeeJay TV (360p)
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1  tvg-id="RadioCapitalTV.it" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1280px-Radio_Capital_logo_%282020%29.svg.png",Radio Capital TV (360p)
+https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1  tvg-id="PublicMusic.in" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",Public Music (576p) [Not 24/7]
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1  tvg-id="TheBoxUK.uk" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png",The Box UK (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1  tvg-id="m2oTV.it" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/936px-Radio_m2o_-_Logo_2019.svg.png",m2o TV (360p)
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1  tvg-id="VIVARussia.ru" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png",VIVA Russia (1080p) [Not 24/7]
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1  tvg-id="VH1.us" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png",VH1 (1080p)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1  tvg-id="BoxHits.uk" group-title="Music" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png",Box Hits (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1  tvg-id="NogoumFMTV.eg" group-title="Music" tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png",Nogoum FM TV (180p) [Not 24/7]
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:-1  tvg-id="KissTV.ro" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Kiss_TV_%282014-present%29.png",Kiss TV (576p)
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+#EXTINF:-1  tvg-id="UTV.ro" group-title="Music" tvg-logo="https://static.cinemagia.ro/img/tv_station/utv.jpg",UTV (576p)
+https://iptv-all.lanesh4d0w.repl.co/romania/utv
+#EXTINF:-1  tvg-id="LoopBeastModeWest.us" group-title="Music" tvg-logo="https://static.12core.net/fb8c7ba652305a8700924347d46dcdff.jpeg",Loop Beast Mode West (1080p) [Geo-blocked]
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/master.m3u8
+#EXTINF:-1  tvg-id="LoopSynapseWest.us" group-title="Music" tvg-logo="https://static.12core.net/e21e0005af106ee7bebea46bb17b2e93.jpeg",Loop Synapse West (1080p) [Geo-blocked]
+https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopElectronicaWest.us" group-title="Music" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg",Loop Electronica West (1080p) [Geo-blocked]
+https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopTexasTunesWest.us" group-title="Music" tvg-logo="https://static.12core.net/c7c4962a327ba3a25ae0dcf17a3d4e06.jpeg",Loop Texas Tunes West (1080p) [Geo-blocked]
+https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopRBWest.us" group-title="Music" tvg-logo="https://static.12core.net/6edcf875ec3ba823acec994ffd051633.jpeg",Loop R&B West (1080p) [Geo-blocked]
+https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopFarOutWest.us" group-title="Music" tvg-logo="https://static.12core.net/66b982a91d8b8f8383420675781139a1.jpeg",Loop Far Out West (1080p) [Geo-blocked]
+https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopUnwindWest.us" group-title="Music" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg",Loop Unwind West (1080p) [Geo-blocked]
+https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopThatsHotWest.us" group-title="Music" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg",Loop That's Hot West (1080p) [Geo-blocked]
+https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopFlashbackWest.us" group-title="Music" tvg-logo="https://static.12core.net/52a174e6787a4ade949c6f5903777cff.jpeg",Loop Flashback West (1080p) [Geo-blocked]
+https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopYachtRockWest.us" group-title="Music" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg",Loop Yacht Rock West (1080p) [Geo-blocked]
+https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopBedroomWest.us" group-title="Music" tvg-logo="https://static.12core.net/2a347a69ef251082e125c7b15fc721a9.jpeg",Loop Bedroom West (1080p) [Geo-blocked]
+https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopTGIFWest.us" group-title="Music" tvg-logo="https://static.12core.net/2487e997c51436f8502ac737144954a7.jpeg",Loop TGIF West (1080p) [Geo-blocked]
+https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopLatinWest.us" group-title="Music" tvg-logo="https://static.12core.net/20b46f1a2777723aaa45db27e7389a93.jpeg",Loop Latin West (1080p) [Geo-blocked]
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="LoopTrendingWest.us" group-title="Music" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg",Loop Trending West (1080p) [Geo-blocked]
+https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="SluhaybyRock.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_rock.png",Sluhay.by Rock (720p)
+https://sluhay.by/live/Ch114pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyRap.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_rap.png",Sluhay.by Rap (720p)
+https://sluhay.by/live/Ch107pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyPop.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_pop.png",Sluhay.by Pop (720p)
+https://sluhay.by/live/Ch066pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyLive.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Live (720p)
+https://sluhay.by/live/Ch173pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyEDM.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_edm.png",Sluhay.by EDM (720p)
+https://sluhay.by/live/Ch091pub/index.m3u8
+#EXTINF:-1  tvg-id="Sluhayby.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by (720p)
+https://sluhay.by/live/Ch045pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyAillion.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Aillion (720p)
+https://sluhay.by/live/Ch149pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyAmoungYourGod.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Among Your God (720p)
+https://sluhay.by/live/Ch086pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyChrist.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Christ (720p)
+https://sluhay.by/live/Ch064pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyLenadi.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Lenadi (720p)
+https://sluhay.by/live/Ch052pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyMova.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Mova (720p)
+https://sluhay.by/live/Ch034pub/index.m3u8
+#EXTINF:-1  tvg-id="SluhaybyXtip.by" group-title="Music" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Xtip (720p)
+https://sluhay.by/live/Ch056pub/index.m3u8
+#EXTINF:-1  tvg-id="SescTV.br" group-title="Music" tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png",Sesc TV (1080p) [Not 24/7]
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+#EXTINF:-1  tvg-id="Radio105full.do" group-title="Music" tvg-logo="https://ru0-cdn.onlineradiobox.com/img/l/2/94192.v2.png",Radio105 full (720p) [Not 24/7]
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+#EXTINF:-1  tvg-id="Rotana Khalijiah" group-title="Music" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png",Rotana Khalijia (1080p)
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1  tvg-id="RadioUTV.us" group-title="Music" tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteFooterTransparent.png",Radio U TV (720p)
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1  tvg-id="LaMegaMundial.us" group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg",La Mega Mundial (720p) [Not 24/7]
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayClassicRock.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Classic Rock (1080p)
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1  tvg-id="StingrayGreatestHits.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayHitList.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayHotCountry.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayNaturescape.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Naturescape (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="StingraySoulStorm.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="Vevo80s.us" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Vevo 80s (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayNaturescape.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDNf/Stingray-Naturescape_450x450.png",Stingray Naturescape (1080p) [Not 24/7]
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1  tvg-id="Stingraydjazz.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDFf/Stingray-DJazz_400x400.png",Stingray djazz (1080p)
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1  tvg-id="StingrayClassica.ca" group-title="Music" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDBf/Stingray-Classica_450x450.png",Stingray Classica (1080p)
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+#EXTINF:-1  tvg-id="MoozRo.ro" group-title="Music" tvg-logo="https://mooz.tv/site/img/mooz-ro1.png",MoozRo
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1  tvg-id="MoozHits.ro" group-title="Music" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg",MoozHits (576p)
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1  tvg-id="MoozDance.ro" group-title="Music" tvg-logo="https://mooz.tv/site/img/mooz-dance.jpg",MoozDance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1  tvg-id="MelodyChannelColombia.co" group-title="Music" tvg-logo="https://melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png",Melody Channel Colombia (720p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+#EXTINF:-1  tvg-id="KurdMaxMusic.iq" group-title="Music" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png",KurdMax Music (1080p) [Not 24/7]
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="KpopTVPlay.br" group-title="Music" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",KpopTV Play (720p) [Not 24/7]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1  tvg-id="STIRRStingrayRockAlternative.us" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ff902b0a-f978-495d-8b37-171eb5fee8a4-small3x1_STIRR_Logo_0720_Alternative_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",STIRR Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1  tvg-id="STIRRStingrayPopAdult.us" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f7fe1378-d4a8-434e-8c1a-d7e001560404-small3x1_stirr_1219_epg_stingraypopadult_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3",STIRR Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1  tvg-id="StingrayClassicRock.ca" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dcf6dea4-94f1-49c2-8387-82569dde9f45-small3x1_stirr_1219_epg_singrayclassicrock_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3",Stingray Classic Rock (1080p)
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1  tvg-id="StingrayHitList.ca" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d35ab388-cc91-4070-876d-b5c48d989a60-small3x1_stirr_1219_epg_singrayhitlist_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3",Stingray Hit List (1080p)
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1  tvg-id="StingrayHotCountry.ca" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3",Stingray Hot Country (1080p)
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1  tvg-id="STIRRStingrayUrbanBeats.us" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",STIRR Stingray Urban Beats (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1  tvg-id="STIRRStingrayTodaysLatinPop.us" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b1d83dd9-b335-4871-89a1-b92cf2651b65-small3x1_STIRR_Logo_0720_StingrayLatinPop_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",STIRR Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1  tvg-id="StingrayEverything80s.ca" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3",Stingray Everything 80s (1080p)
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1  tvg-id="StingrayHolidayHits.ca" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1  tvg-id="StingrayFlashback70s.ca" group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3",Stingray Flashback 70s (1080p)
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1  tvg-id="FreshTV.am" group-title="Music" tvg-logo="https://img.catcast.tv/uploads/09072021/logos/33718-60e8114945a4a.png",Fresh TV (720p)
+https://freshtv.catcast.tv/content/33718/index.m3u8
+#EXTINF:-1  tvg-id="PlutoTVMTVMusicMadeinSpain.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVKaraoke.br" group-title="Music" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",Pluto TV Karaokê por Stingray (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1  tvg-id="PlutoTVShows.br" group-title="Music" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",Pluto TV Shows por Stingray (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1  tvg-id="MTVSpankinNew.br" group-title="Music" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png",MTV Spankin' New (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1  tvg-id="MTVBiggestPop.br" group-title="Music" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",MTV Biggest Pop (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1  tvg-id="PlutoTVMTVLoveMusic.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png",Pluto TV MTV Love Music (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVClubbingTV.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Pluto TV Clubbing TV (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVMTVClassic.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",Pluto TV MTV Classic (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1  tvg-id="PlutoTVMTVClassic.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",Pluto TV MTV Classic (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVMTVClassic.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",Pluto TV MTV Classic (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1  tvg-id="PlutoTVMTVOriginals.us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",Pluto TV MTV Originals (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="SaltoBrasaMusic.nl" group-title="Music" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1  tvg-id="JawharaTV.tn" group-title="Music" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg",JAWHARA TV (720p)
+https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:-1  tvg-id="M1.ua" group-title="Music" tvg-logo="https://i.postimg.cc/SRCMK3vb/m1-ua.png",M1 (1080p)
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1  tvg-id="RetroMusicTV.cz" group-title="Music" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png",Retro Music TV (360p)
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  tvg-id="RetroMusicTV.cz" group-title="Music" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png",RetroMusicTV (360p)
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="KuriakosMusic.pt" group-title="Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg",Kuriakos Music (1080p)
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1  tvg-id="101TeleAntequera.es" group-title="Music" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg",101 Tele Antequera (1080p)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1  tvg-id="TheEdge.nz" group-title="Music" tvg-logo="https://i.imgur.com/ZHJVvOj.png",The Edge (720p)
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1  tvg-id="GORTV.nl" group-title="Music" tvg-logo="https://i.imgur.com/zAFt893.png",GO-RTV (720p)
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1  tvg-id="LoopHipHopWest.us" group-title="Music" tvg-logo="https://i.imgur.com/yW7WCPm.png",Loop Hip-Hop West (1080p)
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
+#EXTINF:-1  tvg-id="MUSICPlus.hu" group-title="Music" tvg-logo="https://i.imgur.com/yKJmkNk.png",MUSIC + (720p) [Not 24/7]
+https://s02.diazol.hu:10192/hls/stream.m3u8
+#EXTINF:-1  tvg-id="DanceStarTV.us" group-title="Music" tvg-logo="https://i.imgur.com/xLqyZQQ.png",DanceStar TV (720p)
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayKaraoke.ca" group-title="Music" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg",Stingray Karaoke (1080p)
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayKaraokeAustralia.ca" group-title="Music" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg",Stingray Karaoke (Australia) (1080p)
+https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
+#EXTINF:-1  tvg-id="StingrayKaraokeSweden.ca" group-title="Music" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg",Stingray Karaoke (Sweden) (1080p)
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayKarokeNetherland.ca" group-title="Music" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg",Stingray Karoke (Netherland) (1080p)
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="QelloConcerts.us" group-title="Music" tvg-logo="https://i.imgur.com/X63rCqD.png",Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1  tvg-id="StingrayKaraoke.us" group-title="Music" tvg-logo="https://i.imgur.com/wVVGZl9.png",Stingray Karaoke (1080p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1  tvg-id="XITEBE.nl" group-title="Music" tvg-logo="https://i.imgur.com/wvo2EYr.jpg",XITE (BE) (720p)
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1  tvg-id="QwestTVJazzBeyond.us" group-title="Music" tvg-logo="https://i.imgur.com/WG4j1iT.png",Qwest TV Jazz & Beyond (720p)
+https://qwestjazz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fc645ae0c478d6617eaa_qwestjazz-live/8f16bedb-ab20-499c-988a-4aa48e0c6a94/2.m3u8
+#EXTINF:-1  tvg-id="11TV.es" group-title="Music" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg",11 TV (576p) [Not 24/7]
+http://51.210.199.43/hls/stream.m3u8
+#EXTINF:-1  tvg-id="Portalfoxmix.cl" group-title="Music" tvg-logo="https://i.imgur.com/umdJ2mP.jpg",Portalfoxmix (720p) [Not 24/7]
+http://149.56.17.92:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1  tvg-id="LFMCH.ch" group-title="Music" tvg-logo="https://i.imgur.com/UE1E3uH.png",LFM (CH) (1080p)
+https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1  tvg-id="EuroIndieMusicChartTV.it" group-title="Music" tvg-logo="https://i.imgur.com/UDFBYpN.png",Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1  tvg-id="Radio21TV.de" group-title="Music" tvg-logo="https://i.imgur.com/ubEUBmB.png",Radio 21 TV (720p)
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1  tvg-id="ILove.in" group-title="Music" tvg-logo="https://i.imgur.com/u191zfh.png",I Love (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+#EXTINF:-1  tvg-id="StingrayAmbience.ca" group-title="Music" tvg-logo="https://i.imgur.com/tHClafI.png",Stingray Ambience (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="A2iMusic.sn" group-title="Music" tvg-logo="https://i.imgur.com/tH7EZL4.jpg",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1  tvg-id="TheRetroChannel.us" group-title="Music" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel (1080p) [Not 24/7]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1  tvg-id="PMC.ir" group-title="Music" tvg-logo="https://i.imgur.com/srVaOna.png",PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1  tvg-id="PMCRoyale.ir" group-title="Music" tvg-logo="https://i.imgur.com/srVaOna.png",PMC Royale (720p) [Not 24/7]
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1  tvg-id="BalkanikaTV.bg" group-title="Music" tvg-logo="https://i.imgur.com/S0GrDsQ.png",Balkanika TV (270p)
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1  tvg-id="QMusic.be" group-title="Music" tvg-logo="https://i.imgur.com/s0CZjmi.png",Q-Music (1080p)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1  tvg-id="MtunesPlus.in" group-title="Music" tvg-logo="https://i.imgur.com/Rt7k6E3.png",Mtunes Plus (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1  tvg-id="RadioPROS.be" group-title="Music" tvg-logo="https://i.imgur.com/RMjFeGE.png",Radio PROS (720p) [Not 24/7]
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="IsaiAruvi.in" group-title="Music" tvg-logo="https://i.imgur.com/radWIeb.png",Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1  tvg-id="JENZ.nl" group-title="Music" tvg-logo="https://i.imgur.com/R1UP2cj.png",JENZ (1080p)
+https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="TVSMusicNetwork.us" group-title="Music" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Music Network (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+#EXTINF:-1  tvg-id="1Mus.hu" group-title="Music" tvg-logo="https://i.imgur.com/PozF9MT.png",1Mus (720p)
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1  tvg-id="MarahFM.ps" group-title="Music" tvg-logo="https://i.imgur.com/PeIYCXs.jpg",Marah FM (720p) [Not 24/7]
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:-1  tvg-id="Qmusic.nl" group-title="Music" tvg-logo="https://i.imgur.com/P8cVMle.jpg",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1  tvg-id="LatidoMusic.us" group-title="Music" tvg-logo="https://i.imgur.com/p3n3CZP.jpg",Latido Music (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
+#EXTINF:-1  tvg-id="LoopHottestEast.us" group-title="Music" tvg-logo="https://i.imgur.com/NY9dKoR.png",Loop Hottest East (1080p) [Geo-blocked]
+https://2e9a0ef101a14c2ebe97c713bc5340be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_v2_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="OckoGold.cz" group-title="Music" tvg-logo="https://i.imgur.com/nrWNyLc.jpg",Óčko Gold (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1  tvg-id="BluegrassMusic4U.us" group-title="Music" tvg-logo="https://i.imgur.com/nm3N3aw.png",Bluegrass Music 4U (360p)
+https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
+#EXTINF:-1  tvg-id="RewindTV.cl" group-title="Music" tvg-logo="https://i.imgur.com/Ni2jlBi.png",Rewind TV (720p) [Not 24/7]
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1  tvg-id="QwestTVMix.us" group-title="Music" tvg-logo="https://i.imgur.com/nGfVrfF.png",Qwest TV Mix (720p)
+https://qwestmix-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fd3f7a7f98174f6142c5_qwestmix-live/5a63669b-5766-49ba-bb65-0e2f761bb212/2.m3u8
+#EXTINF:-1  tvg-id="ShansonTV.ru" group-title="Music" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ (480p)
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:-1  tvg-id="MuzTV.ru" group-title="Music" tvg-logo="https://i.imgur.com/n7bGFXj.png",Муз-ТВ (720p)
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
+#EXTINF:-1  tvg-id="VideoRola.it" group-title="Music" tvg-logo="https://i.imgur.com/MWBk2hQ.jpg",Video Rola (1080p)
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1  tvg-id="BarazaTV.gr" group-title="Music" tvg-logo="https://i.imgur.com/mW6c2QR.png",Baraza TV (1080p)
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1  tvg-id="PlayTV.cm" group-title="Music" tvg-logo="https://i.imgur.com/mvgRAZw.jpg",Play TV (480p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1  tvg-id="VevoPop.us" group-title="Music" tvg-logo="https://i.imgur.com/Me1wLzi.jpg",Vevo Pop (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="VevoPopEurope.us" group-title="Music" tvg-logo="https://i.imgur.com/Me1wLzi.jpg",Vevo Pop Europe (1080p)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1  tvg-id="Baeble.us" group-title="Music" tvg-logo="https://i.imgur.com/mDxouc8.png",Baeble Music (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="MH1Music.in" group-title="Music" tvg-logo="https://i.imgur.com/mCsYdYS.png",MH1 Music (360p) [Not 24/7]
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1  tvg-id="ShowBox.in" group-title="Music" tvg-logo="https://i.imgur.com/m9UFtTM.png",Show Box (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0o8/index.m3u8
+#EXTINF:-1  tvg-id="B4UMusic.in" group-title="Music" tvg-logo="https://i.imgur.com/LZxPgLh.png",B4U Music (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1  tvg-id="StingrayNaturescape.ca" group-title="Music" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg",Stingray Naturescape (1080p)
+https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayNaturescape.ca" group-title="Music" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg",Stingray Naturescape (1080p) [Not 24/7]
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1  tvg-id="StingrayNaturescapeAustralia.ca" group-title="Music" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg",Stingray Naturescape (Australia) (1080p) [Not 24/7]
+https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1  tvg-id="V2BEAT.uk" group-title="Music" tvg-logo="https://i.imgur.com/Ll6GlqY.png",V2BEAT (720p) [Not 24/7]
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1  tvg-id="CityMusicTV.be" group-title="Music" tvg-logo="https://i.imgur.com/LJ4Hpdc.png",City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1  tvg-id="Loop80sEast.us" group-title="Music" tvg-logo="https://i.imgur.com/lDmxwji.png",Loop 80s East (1080p) [Geo-blocked]
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF:-1  tvg-id="Loop80sWest.us" group-title="Music" tvg-logo="https://i.imgur.com/lDmxwji.png",Loop 80s West (1080p) [Geo-blocked]
+https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="VevoHipHop.us" group-title="Music" tvg-logo="https://i.imgur.com/Lbc9cYw.png",Vevo Hip Hop (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1  tvg-id="BridgeTV.ru" group-title="Music" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV (480p)
+http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:-1  tvg-id="VideoTourChannel.cr" group-title="Music" tvg-logo="https://i.imgur.com/l1oc3ER.png",Video Tour Channel (720p) [Not 24/7]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1  tvg-id="MusicBoxGeorgia.ge" group-title="Music" tvg-logo="https://i.imgur.com/ku9kLp8.png",MusicBox Georgia (180p)
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1  tvg-id="MCN6MusicChannel.us" group-title="Music" tvg-logo="https://i.imgur.com/KOgoXoG.png",MCN6 Music Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1  tvg-id="ATVHayTV.am" group-title="Music" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Հայ TV (480p)
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1  tvg-id="QuahzTV.us" group-title="Music" tvg-logo="https://i.imgur.com/KAS3bJt.png",Quahz TV (360p)
+https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/index_750_av-p.m3u8
+#EXTINF:-1  tvg-id="Loop90sWest.us" group-title="Music" tvg-logo="https://i.imgur.com/K8YV2bR.png",Loop 90s West (1080p) [Geo-blocked]
+https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
+#EXTINF:-1  tvg-id="SuryaMusic.in" group-title="Music" tvg-logo="https://i.imgur.com/jsC8FC7.png",Surya Music (480p) [Not 24/7]
+https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
+#EXTINF:-1  tvg-id="AlegriaTV.bo" group-title="Music" tvg-logo="https://i.imgur.com/jlRMBbu.jpg",Alegria TV (480p)
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1  tvg-id="Ocko.cz" group-title="Music" tvg-logo="https://i.imgur.com/jKPRYdM.png",Óčko (540p)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="WuTangCollection.us" group-title="Music" tvg-logo="https://i.imgur.com/jbMmsjI.png",Wu Tang Collection (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1  tvg-id="SouryanaRadio.sy" group-title="Music" tvg-logo="https://i.imgur.com/j5o8ZPm.png",Souryana Radio (160p) [Not 24/7]
+http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8
+#EXTINF:-1  tvg-id="QelloConcertsbyStingray.uk" group-title="Music" tvg-logo="https://i.imgur.com/IVUgJPY.png",Qello Concerts by Stingray (1080p)
+https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="StingrayQelloConcerts.ca" group-title="Music" tvg-logo="https://i.imgur.com/IVUgJPY.png",Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="RuidosFM.cl" group-title="Music" tvg-logo="https://i.imgur.com/IvSqpx0.jpg",Ruidos FM (360p)
+https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
+#EXTINF:-1  tvg-id="AzstarTV.ca" group-title="Music" tvg-logo="https://i.imgur.com/iqraNYV.jpg",Azstar TV [Not 24/7]
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="OyeTV.pa" group-title="Music" tvg-logo="https://i.imgur.com/IqLT2CC.png",Oye TV (480p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:-1  tvg-id="OxigenoTV.ve" group-title="Music" tvg-logo="https://i.imgur.com/IkHrVCL.jpg",Oxigeno TV (230p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1  tvg-id="Afrobeats.uk" group-title="Music" tvg-logo="https://i.imgur.com/Iaey8k5.jpg",Afrobeats (720p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1  tvg-id="RetroPlus.cl" group-title="Music" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1  tvg-id="RetroPlus2.cl" group-title="Music" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 2 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1  tvg-id="MTVHitsLatinoamerica.us" group-title="Music" tvg-logo="https://i.imgur.com/hwaLKuJ.png",MTV Hits Latinoamérica (576p)
+http://209.91.213.10:8088/play/a00z
+#EXTINF:-1  tvg-id="TechnoWarehouseUS.us" group-title="Music" tvg-logo="https://i.imgur.com/GyxXMDv.png",Techno Warehouse (US) (1080p) [Not 24/7]
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1  tvg-id="ActivaTV.es" group-title="Music" tvg-logo="https://i.imgur.com/guHWZwP.jpg",Activa TV (720p) [Not 24/7]
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1  tvg-id="30AMusic.us" group-title="Music" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1  tvg-id="Wanasah.ae" group-title="Music" tvg-logo="https://i.imgur.com/GmgibYW.jpg",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1  tvg-id="JhanjarMusic.in" group-title="Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music [Not 24/7]
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1  tvg-id="TMA.gp" group-title="Music" tvg-logo="https://i.imgur.com/fQUzBsz.png",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1  tvg-id="9XM.in" group-title="Music" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1  tvg-id="MusicIndia.in" group-title="Music" tvg-logo="https://i.imgur.com/F7tPCwh.png",Music India (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1  tvg-id="RockTV.ro" group-title="Music" tvg-logo="https://i.imgur.com/F69gAWa.png",Rock TV (480p)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1  tvg-id="Vaanavil.in" group-title="Music" tvg-logo="https://i.imgur.com/etr1k08.png",Vaanvavil (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nx/index.m3u8
+#EXTINF:-1  tvg-id="QwestTVClassical.us" group-title="Music" tvg-logo="https://i.imgur.com/EDazgFU.png",Qwest TV Classical (720p)
+https://qwestclassic-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8fe07e6a4225c985c8e13_qwestclassic-live/d506ca8b-f7b9-4b76-89bf-c37a19b4a669/2.m3u8
+#EXTINF:-1  tvg-id="CarolinaTV.cl" group-title="Music" tvg-logo="https://i.imgur.com/eaHPbqd.png",Carolina TV (720p)
+https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="StreetMusic4U.us" group-title="Music" tvg-logo="https://i.imgur.com/DVfEmq7.png",Street Music 4U (720p)
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioPiterPanTV.it" group-title="Music" tvg-logo="https://i.imgur.com/DfugVgy.png",Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="VevoLatino.us" group-title="Music" tvg-logo="https://i.imgur.com/D7SwmuB.png",Vevo Latino (1080p)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1  tvg-id="Hits360TV.do" group-title="Music" tvg-logo="https://i.imgur.com/Cx5V233.jpg",Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1  tvg-id="antennevorarlberg.at" group-title="Music" tvg-logo="https://i.imgur.com/cnMTcPw.png",Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="Tunes6.in" group-title="Music" tvg-logo="https://i.imgur.com/ClpXKNR.png",Tunes 6 [Geo-blocked]
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1  tvg-id="SanaPlus.in" group-title="Music" tvg-logo="https://i.imgur.com/cA7PpJG.jpg",Sana Plus (720p) [Not 24/7]
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1  tvg-id="T2TV.ir" group-title="Music" tvg-logo="https://i.imgur.com/BwyQR6n.png",T2 TV (720p) [Not 24/7]
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+#EXTINF:-1  tvg-id="TelemusicaTV.co" group-title="Music" tvg-logo="https://i.imgur.com/bwp5lST.png",Telemúsica TV (720p)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1  tvg-id="9XJhakaas.in" group-title="Music" tvg-logo="https://i.imgur.com/aZ0f85I.png",9X Jhakaas (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0mx/index.m3u8
+#EXTINF:-1  tvg-id="ArmeniaJanTV.am" group-title="Music" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia Ջան TV (480p)
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1  tvg-id="ConectaTV.mx" group-title="Music" tvg-logo="https://i.imgur.com/9TGQZzk.png",Conecta TV (720p)
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioWeserTVBremen.de" group-title="Music" tvg-logo="https://i.imgur.com/9pvCYaA.png",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1  tvg-id="KultuTV.bj" group-title="Music" tvg-logo="https://i.imgur.com/8ytvChX.png",Kultu TV (720p) [Not 24/7]
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82zdni
+#EXTINF:-1  tvg-id="SkyFolkTV.mk" group-title="Music" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg",Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1  tvg-id="LoopPartyWest.us" group-title="Music" tvg-logo="https://i.imgur.com/8JPEexX.png",Loop Party West (1080p)
+https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
+#EXTINF:-1  tvg-id="RTL1025.it" group-title="Music" tvg-logo="https://i.imgur.com/7Ep1zt8.jpg",RTL 102.5 (432p)
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1  tvg-id="NojoumTV.jo" group-title="Music" tvg-logo="https://i.imgur.com/6ttWNu0.jpg",Nojoum TV (720p)
+https://nojoumhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  tvg-id="TZiK.fr" group-title="Music" tvg-logo="https://i.imgur.com/6Iw1YRL.png",TZiK [Not 24/7]
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1  tvg-id="TZiK.fr" group-title="Music" tvg-logo="https://i.imgur.com/6Iw1YRL.png",TZiK [Not 24/7]
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1  tvg-id="9XJalwa.in" group-title="Music" tvg-logo="https://i.imgur.com/6h83JRO.png",9X Jalwa (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+#EXTINF:-1  tvg-id="SteelbirdMusic.in" group-title="Music" tvg-logo="https://i.imgur.com/5r4gCMh.jpg",Steelbird Music (720p) [Not 24/7]
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioJavanTV.ir" group-title="Music" tvg-logo="https://i.imgur.com/4XTyMST.jpg",Radio Javan TV (720p) [Not 24/7]
+https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="BreezeTV.nz" group-title="Music" tvg-logo="https://i.imgur.com/3dpH9XF.jpg",Breeze TV (720p)
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+#EXTINF:-1  tvg-id="Channel24.il" group-title="Music" tvg-logo="https://i.imgur.com/2RC8nh6.jpg",Channel 24 (720p)
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:-1  tvg-id="TVDugaPlus.rs" group-title="Music" tvg-logo="https://i.imgur.com/0RcNFXt.jpg",TV Duga Plus (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioCapitalTV.it" group-title="Music" tvg-logo="https://i.imgur.com/0bv1gID.png",Radio Capital TV (360p)
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1  tvg-id="RadioContact.be" group-title="Music" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Radio Contact (720p)
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1  tvg-id="HQMSpanish.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/spanish-hqm-logo.png",HQM Spanish (1080p)
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1  tvg-id="HQMPop.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png",HQM Pop (1080p)
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1  tvg-id="HQMRock.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png",HQM Rock (1080p)
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1  tvg-id="HQMRemember.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png",HQM Remember (1080p)
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1  tvg-id="HQMBlues.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png",HQM Blues (1080p)
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1  tvg-id="HQMRelax.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png",HQM Relax (1080p)
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:-1  tvg-id="HQMLatin.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png",HQM Latin (1080p)
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:-1  tvg-id="HQMKids.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png",HQM Kids (1080p)
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:-1  tvg-id="HQMJazz.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/jazz-hqm-logo.png",HQM Jazz (1080p)
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF:-1  tvg-id="HQMHits.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png",HQM Hits (1080p)
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF:-1  tvg-id="HQMHipHop.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/hiphop-hqm-logo.png",HQM Hip Hop (1080p)
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:-1  tvg-id="HQMGym.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png",HQM Gym (1080p)
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
+#EXTINF:-1  tvg-id="HQMFolk.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/folk-hqm-logo.png",HQM Folk (1080p)
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTINF:-1  tvg-id="HQMDance.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/dance-hqm-logo.png",HQM Dance (1080p)
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:-1  tvg-id="HQMClassic.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/classic-hqm-logo.png",HQM Classic (1080p)
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1  tvg-id="HQMChillOut.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/chillout-hqm-logo.png",HQM Chill Out (1080p)
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1  tvg-id="HQMBaladas.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/baladas-hqm-logo.png",HQM Baladas (1080p)
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1  tvg-id="HQMArabic.es" group-title="Music" tvg-logo="https://hqm.es/wp-content/uploads/arabic-hqm-logo.png",HQM Arabic (1080p)
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+#EXTINF:-1  tvg-id="SoniderosTV.us" group-title="Music" tvg-logo="https://graph.facebook.com/www.sonideros.tv/picture?width=320&height=320",Sonideros TV (360p) [Not 24/7]
+https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8
+#EXTINF:-1  tvg-id="V2BEAT.uk" group-title="Music" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320",V2BEAT (720p) [Not 24/7]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1  tvg-id="VisionTVMusica.pe" group-title="Music" tvg-logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320",Visión TV Musica (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1  tvg-id="VallenatoInternacional.us" group-title="Music" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1  tvg-id="TopLatino.pe" group-title="Music" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320",Top Latino TV (404p) [Not 24/7]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="StereoTVPeru.pe" group-title="Music" tvg-logo="https://graph.facebook.com/StereotvOficial/picture?width=320&height=320",Stereo TV (Peru) [Not 24/7]
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
+#EXTINF:-1  tvg-id="SanjuaneraTV.pe" group-title="Music" tvg-logo="https://graph.facebook.com/Sanjuaneratv/picture?width=320&height=320",SanjuaneraTV [Not 24/7]
+https://live.obslivestream.com/sanjuaneramux/playlist.m3u8
+#EXTINF:-1  tvg-id="GalacticaTVPeru.pe" group-title="Music" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320",Galáctica TV (Peru) (2160p) [Not 24/7]
+https://envivo.galacticatv.com:3913/stream/play.m3u8
+#EXTINF:-1  tvg-id="RadioSanBorjaTV.pe" group-title="Music" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioChalaca.pe" group-title="Music" tvg-logo="https://graph.facebook.com/radiochalacafm/picture?width=320&height=320",Radio Chalaca [Not 24/7]
+https://mediastreamm.com:3162/stream/play.m3u8
+#EXTINF:-1  tvg-id="Portalfoxmix.cl" group-title="Music" tvg-logo="https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320",Portalfoxmix (720p) [Not 24/7]
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1  tvg-id="CNCumbia.pe" group-title="Music" tvg-logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320",Cable Netword Cumbia TV (720p) [Not 24/7]
+https://tv.siete.us/cumbiatv/index.m3u8
+#EXTINF:-1  tvg-id="Karibena.pe" group-title="Music" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320",Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1  tvg-id="TVPeruanisima.pe" group-title="Music" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320",TV Peruanísima (720p) [Not 24/7]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1  tvg-id="BestCableMasCumbia.pe" group-title="Music" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320",Best Cable Más Cumbia (720p) [Not 24/7]
+https://tv.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1  tvg-id="BestCableMusic.pe" group-title="Music" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320",Best Cable Music (720p) [Not 24/7]
+https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1  tvg-id="CNBellezaAndina.pe" group-title="Music" tvg-logo="https://graph.facebook.com/bellezandina/picture?width=320&height=320",Cable Netword Belleza Andina TV (720p) [Not 24/7]
+https://tv.siete.us/bellezaandina/index.m3u8
+#EXTINF:-1  tvg-id="ASondeSalsa.pa" group-title="Music" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320",A Son de Salsa (720p) [Not 24/7]
+https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
+#EXTINF:-1  tvg-id="TurboMixRadioTV.pe" group-title="Music" tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320",Turbo Mix Radio TV (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1  tvg-id="MetropolitanadelCuzco.pe" group-title="Music" tvg-logo="https://graph.facebook.com/113907773339257/picture?width=320&height=320",Metropolitana del Cuzco (CCTVRadio) [Not 24/7]
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+#EXTINF:-1  tvg-id="RumbaMixTV.pe" group-title="Music" tvg-logo="https://graph.facebook.com/109388704194807/picture?width=320&height=320",RumbaMix TV [Not 24/7]
+https://tvdatta.com:3344/live/rumbamixlive.m3u8
+#EXTINF:-1  tvg-id="StingrayClassicRock.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Classic Rock (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingrayGreatestHits.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingrayHitlist.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Hitlist (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingrayHotCountry.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingrayKaraoke.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Karaoke (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingrayNaturescape.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Naturescape (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingrayQelloConcerts.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
+#EXTINF:-1  tvg-id="StingraySoulStorm.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
+#EXTINF:-1  tvg-id="404StingrayGreatestHits.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",404 Stingray Greatest Hits (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1  tvg-id="405StingrayHitList.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",405 Stingray Hit List (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:-1  tvg-id="406StingrayClassicRock.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",406 Stingray Classic Rock (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1  tvg-id="407StingrayRockAlternative.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",407 Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1  tvg-id="408StingrayPopAdult.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",408 Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1  tvg-id="409StingrayUrbanBeat.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",409 Stingray Urban Beat (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:-1  tvg-id="410StingrayHotCountry.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",410 Stingray Hot Country (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1  tvg-id="411StingrayFlashback70s.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",411 Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1  tvg-id="412StingrayEverything80s.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",412 Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1  tvg-id="413StingrayTodaysLatinPop.ca" group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",413 Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1  tvg-id="LocalNowMusic.us" group-title="Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6011c3f68a253a517a15fce8",Local Now Music (720p)
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="Mezzo.fr" group-title="Music" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/mezzo-logo.png",Mezzo (480p)
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1  tvg-id="Mezzo.fr" group-title="Music" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/mezzo-logo.png",Mezzo (480p)
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1  tvg-id="MusicTop.ar" group-title="Music" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="CanalSonTV.co" group-title="Music" tvg-logo="https://canalsontv.co/wp-content/uploads/2021/05/SON-TV-logo-jpg.jpg",Canal Son TV (360p) [Not 24/7]
+https://server12.videostreaming.net:3628/stream/play.m3u8
+#EXTINF:-1  tvg-id="HITV.ru" group-title="Music" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a0000015a657a4a9a5bdf7861005eb28a46/z",HITV (1080p)
+https://strm.yandex.ru/kal/hittv/hittv0.m3u8
+#EXTINF:-1  tvg-id="ArabicaMusic.lb" group-title="Music" tvg-logo="https://arabicagroup.tv/images/app1.png",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioItaliaTV.it" group-title="Music" tvg-logo="https://api.superguidatv.it/v1/channels/165/logo?width=120&theme=light",Radio Italia TV (480p)
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1  tvg-id="Amordiscos.co" group-title="Music" tvg-logo="https://amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha-150x150.png",Amordiscos
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+#EXTINF:-1  tvg-id="AghaniAghani.lb" group-title="Music" tvg-logo="https://aghaniaghani.com/images/logo.png",Aghani Aghani (1080p) [Not 24/7]
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:-1  tvg-id="ZharPtica.ru" group-title="Music" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png",Жар Птица (1080p) [Not 24/7]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1  tvg-id="MusicBoxRussia.ru" group-title="Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg",Music Box Russia (1080p)
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1  tvg-id="PervyyMuzykalnyyRossiya.by" group-title="Music" tvg-logo="http://www.giniko.com/logos/190x110/1043.jpg",Первый Музыкальный Канал Россия (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1  tvg-id="Falastini.ps" group-title="Music" tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png",Falastini (1080p)
+http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1  tvg-id="KoolLondonRadio.uk" group-title="Music" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png",Kool London Radio (720p)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1  tvg-id="RotanaRadioJordanCityView.jo" group-title="Music" tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png",Rotana Radio Jordan: City View (180p)
+http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
+#EXTINF:-1  tvg-id="RotanaRadioJordanControlStudio.jo" group-title="Music" tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png",Rotana Radio Jordan: Control Studio (180p)
+http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8
+#EXTINF:-1  tvg-id="RotanaRadioJordanStudio.jo" group-title="Music" tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png",Rotana Radio Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:-1  tvg-id="MelodyFM.jo" group-title="Music" tvg-logo="http://melody-fm.com/img/Logo.png",Melody FM Jordan (720p) [Not 24/7]
+https://cdn3.wowza.com/1/ZFBldUlPNjRBRDZM/ZW90V2ZW/hls/live/playlist.m3u8
+#EXTINF:-1  tvg-id="RadioShanson.ru" group-title="Music" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png",Радио Шансон (720p)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1  tvg-id="PlutoTVLiveinConcert.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/6080411af03506000759916e/solidLogoPNG.png",Pluto TV Live in Concert (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a
+#EXTINF:-1  tvg-id="PlutoTVVH1IClassic.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",Pluto TV VH1 Classics (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVEVO2K.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",Pluto TV VEVO 2K (1080p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVEVO90s.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",Pluto TV VEVO 90's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVEVO80s.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",Pluto TV VEVO 80's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVCMTEqualPlay.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png",Pluto TV CMT Equal Play (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVEVOReggeatonTrap.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Pluto TV VEVO Reggeaton & Trap (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVEVO70s.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",Pluto TV VEVO 70's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVCMT.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png",Pluto TV CMT (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=
+#EXTINF:-1  tvg-id="PlutoTVVEVORB.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVEVOCountry.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Pluto TV VEVO Country (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVVevoPop.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",Pluto TV Vevo Pop (1080p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
+#EXTINF:-1  tvg-id="PlutoTVVevoPop.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",Pluto TV Vevo Pop (1080p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVMTVBiggestPop.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png",Pluto TV MTV Biggest Pop (720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1  tvg-id="PlutoTVMTVLatino.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1  tvg-id="PlutoTVMTV.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",Pluto TV MTV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
+#EXTINF:-1  tvg-id="PlutoTVMTV.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",Pluto TV MTV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1  tvg-id="PlutoTVMTV.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",Pluto TV MTV (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1  tvg-id="PlutoTVMTVGermany.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",Pluto TV MTV (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
+#EXTINF:-1  tvg-id="PlutoTVLiveMusicReplay.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png",Pluto TV Live Music Replay (720p)
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
+#EXTINF:-1  tvg-id="PlutoTVLiveMusicReplay.us" group-title="Music" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png",Pluto TV Live Music Replay (US) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
+#EXTINF:-1  tvg-id="MagicTV.gr" group-title="Music" tvg-logo="http://i.imgur.com/QZQhg6C.png",Magic TV (360p)
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1  tvg-id="NG.gr" group-title="Music" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG (612p)
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1  tvg-id="XalastraTV.gr" group-title="Music" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",Xalastra TV (240p)
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1  tvg-id="PlayTV.gr" group-title="Music" tvg-logo="http://i.imgur.com/100uuWA.png",Play TV (480p)
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1  tvg-id="RadionorbaTV.it" group-title="Music" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/25780_home.png",Radionorba TV (404p)
+http://flash2.xdevel.com/norbatv/smil:norbatv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="GaanBangla.bd" group-title="Music" tvg-logo="http://gaanbangla.tv/img/logo.png",Gaan Bangla (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="RelaxTV" group-title="Music" tvg-logo="http://expressott.in/uploads/tv_image/relax-tv.png",Relax TV (720p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+#EXTINF:-1  tvg-id="RealTV.in" group-title="Music" tvg-logo="http://expressott.in/uploads/tv_image/real-tv.jpg",Real TV (1080p) [Not 24/7]
+http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
+#EXTINF:-1  tvg-id="CaliforniaMusicChannel.us" group-title="Music" tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png",California Music Channel (720p) [Geo-blocked]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1  tvg-id="FRBA3900002RJ" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/99/FRBA3900002RJ_20211013T011747.png",Vevo Hip-Hop & R&B
+https://eu.linear.zype.com/2897d30e-5ed8-42e5-9823-b22cd53f289f/d8db1183-fbab-41e7-a956-5ee16ffb16b6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA1500001G6" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/46/FRBA1500001G6_20210609T004616.png",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA39000014W" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/FRBA39000014W_20211013T011806.png",Vevo Pop
+https://eu.linear.zype.com/a30f2d9e-7eee-4fc7-896f-24a85829c9c2/fbfb8efa-c5fa-4fec-91f7-03a4224c11dc-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA2200002IV" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/FRBA2200002IV_20210209T093427.png",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBB1900001FA" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20210714T000933.png",Clubbing TV
+https://d2kxrnvwjgpe0t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-FR-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA2200001SP" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/FRBA2200001SP_20210209T093438.png",Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA3300056OD" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/FRBA3300056OD_20210714T001605.png",OFIVE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofive-ofive-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA2200003RR" group-title="Musique" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/59/FRBA2200003RR_20210209T093440.png",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="6080411af03506000759916e" group-title="Musique" tvg-logo="https://images.pluto.tv/channels/6080411af03506000759916e/colorLogoPNG.png",Pluto TV Live in Concert
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080411af03506000759916e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="604f8d6c7877d40007791af0" group-title="Musique" tvg-logo="https://images.pluto.tv/channels/604f8d6c7877d40007791af0/colorLogoPNG.png",Loupe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f8d6c7877d40007791af0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="600ad8f86e1eba00081da3ce" group-title="Musique" tvg-logo="https://images.pluto.tv/channels/600ad8f86e1eba00081da3ce/colorLogoPNG.png",Clubbing TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="EuronewsFrancais.fr" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png",Euronews Français (720p)
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="Franceinfo.fr" group-title="News" tvg-logo="https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_franceinfo%2F20151026_092415%2FwebTVLogo%2Flogo_180x96.png",Franceinfo (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
+#EXTINF:-1  tvg-id="Cnews.fr" group-title="News" tvg-logo="https://i.postimg.cc/vT6GMpCV/cnews.png",Cnews (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1  tvg-id="RTFrance.ru" group-title="News" tvg-logo="https://i.imgur.com/gVedXRh.png",RT France (1080p)
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:-1  tvg-id="BFMTV.fr" group-title="News" tvg-logo="https://i.imgur.com/ClMYrD0.png",BFMTV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
+#EXTINF:-1  tvg-id="LCI.fr" group-title="News" tvg-logo="https://i.imgur.com/6VzdKEa.png",LCI (720p)
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1  tvg-id="France24Francais.fr" group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1  tvg-id="CNNInternationalEurope.us" group-title="News" tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="60d35bcaf1ff4a00078af0a6" group-title="News & Info" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png",Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="613f26b81646de000779006b" group-title="Nouveau sur Pluto TV" tvg-logo="https://images.pluto.tv/channels/613f26b81646de000779006b/colorLogoPNG.png",Pluto TV SOS Secours
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613f26b81646de000779006b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="611e6ddc7fcd580007d1eb5f" group-title="Nouveau sur Pluto TV" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png",Pluto TV Kids Gaming
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60f165cd4e33aa0007481782" group-title="Nouveau sur Pluto TV" tvg-logo="https://images.pluto.tv/channels/60f165cd4e33aa0007481782/colorLogoPNG.png",FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f165cd4e33aa0007481782/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60db451c706fe50007fdda13" group-title="Nouveau sur Pluto TV" tvg-logo="https://images.pluto.tv/channels/60db451c706fe50007fdda13/colorLogoPNG.png",Pluto TV Feu de Cheminée
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db451c706fe50007fdda13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60db430f0583510007ac4096" group-title="Nouveau sur Pluto TV" tvg-logo="https://images.pluto.tv/channels/60db430f0583510007ac4096/colorLogoPNG.png",Illuminations de Noël
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db430f0583510007ac4096/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60db3aef7b85d300073db507" group-title="Nouveau sur Pluto TV" tvg-logo="https://images.pluto.tv/channels/60db3aef7b85d300073db507/colorLogoPNG.png",Qwest Jazz&Beyond
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db3aef7b85d300073db507/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60afb203ec391c00070ea1bf" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png",Génération Sitcoms
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afb203ec391c00070ea1bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60afb0a628301c0007cebfec" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60afb0a628301c0007cebfec/colorLogoPNG.png",Premiers Baisers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afb0a628301c0007cebfec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60afae68a7fc50000737186d" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png",Les Années fac
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afae68a7fc50000737186d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60549e98061b5f000776866a" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",Instant Saga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60549e98061b5f000776866a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60549d97cd7b090007c73314" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png",Les filles d'à côté
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60549d97cd7b090007c73314/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60549c238c3f21000753d3e0" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png",Le miracle de l'amour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60549c238c3f21000753d3e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60549a8d8f1b53000768bc52" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/60549a8d8f1b53000768bc52/colorLogoPNG.png",Le miel et les abeilles
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60549a8d8f1b53000768bc52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="604f8de01b479400078fb1e7" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png",Hélène et les garçons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f8de01b479400078fb1e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed80fa09f120007c8daa5" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png",Les Cordier
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed6d569d2d4000864a976" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png",Louis La Brocante
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed5fba4ffb8000764ea01" group-title="Séries Françaises" tvg-logo="https://images.pluto.tv/channels/5f8ed5fba4ffb8000764ea01/colorLogoPNG.png",Plus Belle La Vie
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60d35a74c63c3c0008df6a90" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png",BBC Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60d359c98f262f00070c364e" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png",Doctor Who
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d359c98f262f00070c364e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60afaa535580be0007ac9ee4" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png",Alerte à Malibu
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afaa535580be0007ac9ee4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60afa749ac7f3200078adb40" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png",Walker Texas Ranger
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afa749ac7f3200078adb40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f914f9dccb4de0007df8bc4" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png",Pluto TV Telenovela
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed4dbf6bb0800071ffbcb" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",Pluto TV Polar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed2d1c34c2300073bf02c" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",Pluto TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8eb7e3d2ed18000746d09a" group-title="Séries Internationales" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png",Pluto TV TEEN SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="FRBA150000368" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/76/FRBA150000368_20200923T100306.png",HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/21b04195-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBB3300001TQ" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/FRBB3300001TQ_20210908T010432.png",Sport en France
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-sportenfrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA1000010TX" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBA1000010TX_20211013T011616.png",World Poker Tour
+https://b875233566c640d498b0b77ef55a2232.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA3300001KU" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/82/FRBA3300001KU_20211027T002844.png",AbsintheTV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/517a9090-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA3300053F3" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/FRBA3300053F3_20210908T010400.png",Motorsport.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-motosporttv-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA1000006LP" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/FRBA1000006LP_20201029T004312.png",FUEL TV
+https://153f55b42b7d42008a91af833c1c52ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FuelTV/playlist.m3u8?ads.wurl_channel=588&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA1500005IU" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/FRBA1500005IU_20200923T100328.png",The Boat Show
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/396ecaf1-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA3300055J0" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/43/FRBA3300055J0_20210908T010447.png",Surf World TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-surfworldtv-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-id="FRBA1500006WU" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/28/FRBA1500006WU_20200923T100343.png",Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/d297a8fd-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA1500004O2" group-title="Sport & Nature" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/FRBA1500004O2_20200923T100326.png",MotorRacing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/93592510-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="MavTVEurope.us" group-title="Sports" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",MavTV Europe (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="60817e1aa6997500072d0d6d" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png",Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="6081310e48d3200007afaf3b" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/6081310e48d3200007afaf3b/colorLogoPNG.png",Pluto TV Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6081310e48d3200007afaf3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="60803e541a829e0008e91641" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png",Pluto TV Yoga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60803e541a829e0008e91641/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ed327f9e9b0000761141e" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png",Pluto TV Extrême
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="5f8ecfb9db6c180007a6d1b0" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",WPT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-id="MotorvisionTV.de" group-title="Sports" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/solidLogoPNG.png",Motorvision TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1  tvg-id="FRBB3500001P6" group-title="Technologie‚ jeux video et science" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/FRBB3500001P6_20210908T010244.png",gTV
+https://d3kpdkz05vnvr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Ubisoft-french-France-prod/ubi_ug.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1  tvg-id="FRBA3300058VO" group-title="Technologie‚ jeux video et science" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/FRBA3300058VO_20210811T022054.png",Humanity Documentaires
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
